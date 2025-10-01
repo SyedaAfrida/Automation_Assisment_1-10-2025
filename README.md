@@ -1,1 +1,6 @@
 # Automation_Assisment_1-10-2025
+
+1. Open the project in VScode
+2. In terminal Install playwright: npm init playwright@latest
+3. npx playwright test --project=chromium
+4. npx playwright show-report
